@@ -40,7 +40,7 @@ def accuracy_report():
         print("The ", class_names[i], " paper was correctly identified ", report_accuracies[i][0], " out of",
                report_accuracies[i][1], " time for a label accuracy of ",
               report_accuracies[i][0]/report_accuracies[i][1] * 100, " percent.")
-    print("\n The total accuracy was ", total/test_x.shape[0], " percent.")
+    print("\n The total accuracy was ", total/test_x.shape[0] * 100, " percent.")
 
 
 def learn(alpha, max_iter):
