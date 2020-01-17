@@ -1,0 +1,45 @@
+C:\Users\mmark\PycharmProjects\CSE891-003\venv\Scripts\python.exe C:/Users/mmark/PycharmProjects/CSE891-003/HW_1.py
+Learning is  5  percent complete.
+Learning is  10  percent complete.
+Learning is  15  percent complete.
+Learning is  20  percent complete.
+Learning is  25  percent complete.
+Learning is  30  percent complete.
+Learning is  35  percent complete.
+Learning is  40  percent complete.
+Learning is  45  percent complete.
+Learning is  50  percent complete.
+Learning is  55  percent complete.
+Learning is  60  percent complete.
+Learning is  65  percent complete.
+Learning is  70  percent complete.
+Learning is  75  percent complete.
+Learning is  80  percent complete.
+Learning is  85  percent complete.
+Learning is  90  percent complete.
+Learning is  95  percent complete.
+Learning is  100  percent complete.
+The  alt.atheism  paper was correctly identified  248  out of 319  time for a label accuracy of  77.74294670846395  percent.
+The  comp.graphics  paper was correctly identified  234  out of 389  time for a label accuracy of  60.15424164524421  percent.
+The  comp.os.ms-windows.misc  paper was correctly identified  279  out of 394  time for a label accuracy of  70.81218274111674  percent.
+The  comp.sys.ibm.pc.hardware  paper was correctly identified  240  out of 392  time for a label accuracy of  61.224489795918366  percent.
+The  comp.sys.mac.hardware  paper was correctly identified  290  out of 385  time for a label accuracy of  75.32467532467533  percent.
+The  comp.windows.x  paper was correctly identified  293  out of 395  time for a label accuracy of  74.17721518987341  percent.
+The  misc.forsale  paper was correctly identified  273  out of 390  time for a label accuracy of  70.0  percent.
+The  rec.autos  paper was correctly identified  341  out of 396  time for a label accuracy of  86.11111111111111  percent.
+The  rec.motorcycles  paper was correctly identified  379  out of 398  time for a label accuracy of  95.22613065326632  percent.
+The  rec.sport.baseball  paper was correctly identified  361  out of 397  time for a label accuracy of  90.93198992443325  percent.
+The  rec.sport.hockey  paper was correctly identified  377  out of 399  time for a label accuracy of  94.48621553884712  percent.
+The  sci.crypt  paper was correctly identified  364  out of 396  time for a label accuracy of  91.91919191919192  percent.
+The  sci.electronics  paper was correctly identified  266  out of 393  time for a label accuracy of  67.68447837150127  percent.
+The  sci.med  paper was correctly identified  289  out of 396  time for a label accuracy of  72.97979797979798  percent.
+The  sci.space  paper was correctly identified  377  out of 394  time for a label accuracy of  95.68527918781726  percent.
+The  soc.religion.christian  paper was correctly identified  347  out of 398  time for a label accuracy of  87.1859296482412  percent.
+The  talk.politics.guns  paper was correctly identified  288  out of 364  time for a label accuracy of  79.12087912087912  percent.
+The  talk.politics.mideast  paper was correctly identified  312  out of 376  time for a label accuracy of  82.97872340425532  percent.
+The  talk.politics.misc  paper was correctly identified  181  out of 310  time for a label accuracy of  58.387096774193544  percent.
+The  talk.religion.misc  paper was correctly identified  138  out of 251  time for a label accuracy of  54.980079681274894  percent.
+
+ The total accuracy was  78.02708443972385  percent.
+
+Process finished with exit code 0
